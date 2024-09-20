@@ -18,8 +18,7 @@ Asegúrate de tener Docker y Docker Compose instalados en tu máquina.
 1. Clona el repositorio:
 
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/luis-eduardo-caicedo/GeoStations.git
    ```
 
 2. En la raíz del proyecto encontrarás un archivo llamado `env_example` que contiene un ejemplo de cómo debe estructurarse el archivo de variables de entorno. Usa este archivo como guía para crear tu propio archivo `.env` en la misma ubicación.
