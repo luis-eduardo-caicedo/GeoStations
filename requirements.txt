@@ -1,0 +1,5 @@
+Django>=4.0,<5.0
+djangorestframework
+psycopg2
+django-material-admin==1.8.6
+python-dotenv>=0.19.0

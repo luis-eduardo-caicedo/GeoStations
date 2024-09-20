@@ -1,0 +1,6 @@
+.env
+
+# Ignore Docker volumes and data
+postgres_data/
+pgadmin_data/
+volumes/
