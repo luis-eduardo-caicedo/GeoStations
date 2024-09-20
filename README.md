@@ -40,7 +40,7 @@ Para construir el proyecto, primero ejecuta:
 docker-compose build
 ```
 
-Luego, corre las migraciones de la base de datos usando uno de los siguientes comandos:
+Luego, corre las migraciones de la base de datos usando el siguiente comando:
 
 
 ```bash
@@ -63,7 +63,7 @@ docker-compose up
 
 ## Ejecución de pruebas
 
-Para correr las pruebas del proyecto, puedes utilizar uno de los siguientes comandos:
+Para correr las pruebas del proyecto puedes utilizar el siguiente comando:
 
 ```bash
 docker-compose run web python manage.py test
